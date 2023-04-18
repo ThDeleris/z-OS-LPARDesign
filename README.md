@@ -1,4 +1,4 @@
-# z-OS-LPARDesign and LPARDesign Extended
+# z-OS-LPARDesign and LPARDesign Extended by Alain Maneville & Thierry Déléris
 LPARDesign & LPARDesign Extended Tools - Helps in configuring your CPC for PR/SM and HiperDispatch. Now supports the new z16 A02 and zPCR 9.6!
 The LPAR Design tool assists you in planning the LPAR layout of your Central Processor Complexes. The tool allows you
 to specify all partitions, the number of logical processors and their weights. If you run your system in Hiperdispatch mode it
